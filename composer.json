@@ -11,10 +11,10 @@
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "illuminate/support": "^10.0|^11.0|^12.0",
-        "symfony/mailer": "^6.2|^7.0",
+        "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
+        "symfony/mailer": "^6.2|^7.0|^8.0",
         "alibabacloud/dm-20151123": "^1.0",
-        "illuminate/mail": "^10.17|^11.0|^12.0"
+        "illuminate/mail": "^10.17|^11.0|^12.0|^13.0"
     },
     "autoload": {
         "psr-4": {
